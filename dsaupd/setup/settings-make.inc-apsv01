@@ -1,0 +1,3 @@
+ARPACK_ROOT  = /f/repo/arpack
+ARPACK_LIB   = $(ARPACK_ROOT)/libarpack_cygwin.a
+BOOST_ROOT   = /usr/include/boost-1_33_1
